@@ -1,5 +1,4 @@
 # c2ptcli
-
 Golangで作成されたSlack,Chatwork,LINEへメッセージを投稿するコマンドです。
 Windows/Linux/Mac上で動作します。
 
